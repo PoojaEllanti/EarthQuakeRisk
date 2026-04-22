@@ -26,9 +26,8 @@ pip install -r requirements.txt
 python app.py
 
 
----
 
-# 🧾 STEP 6: Add to Your Submission
+## 🧾 STEP 6: Add to Your Submission
 
 ## Write like this:
 
